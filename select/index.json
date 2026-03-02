@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "線香花火 feat. 幾田りら",
+  "base_artist": "佐藤千亜妃",
+  "createdAt": "2026-03-02T17:30:05.959833Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "線香花火 - feat. 幾田りら",
+      "artist": "CHIAKI SATO feat. Lilas Ikuta",
+      "has_synced": false,
+      "path": "select/01_線香花火_-_feat._幾田りら_CHIAKI_SATO_feat._Lilas_Ikuta.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "線香花火 - feat. 幾田りら",
+      "artist": "CHIAKI SATO, Lilas Ikuta",
+      "has_synced": false,
+      "path": "select/02_線香花火_-_feat._幾田りら_CHIAKI_SATO,_Lilas_Ikuta.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "線香花火",
+      "artist": "Fujifabric",
+      "has_synced": true,
+      "path": "select/03_線香花火_Fujifabric.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "線香花火",
+      "artist": "フジファブリック",
+      "has_synced": true,
+      "path": "select/04_線香花火_フジファブリック.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "線香花火",
+      "artist": "J SOUL BROTHERS III",
+      "has_synced": true,
+      "path": "select/05_線香花火_J_SOUL_BROTHERS_III.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "線香花火 - feat. 幾田りら",
+      "artist": "CHIAKI SATO",
+      "has_synced": true,
+      "path": "select/06_線香花火_-_feat._幾田りら_CHIAKI_SATO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "線香花火 feat. 幾田りら",
+      "artist": "CHIAKI SATO",
+      "has_synced": true,
+      "path": "select/07_線香花火_feat._幾田りら_CHIAKI_SATO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "線香花火",
+      "artist": "May's",
+      "has_synced": false,
+      "path": "select/08_線香花火_May's.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "線香花火",
+      "artist": "AJISAI",
+      "has_synced": true,
+      "path": "select/09_線香花火_AJISAI.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "線香花火",
+      "artist": "MAGIC OF LiFE",
+      "has_synced": true,
+      "path": "select/10_線香花火_MAGIC_OF_LiFE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "線香花火",
+      "artist": "the shes gone",
+      "has_synced": false,
+      "path": "select/11_線香花火_the_shes_gone.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "線香花火",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/12_線香花火_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "線香花火",
+      "artist": "MAY’S",
+      "has_synced": true,
+      "path": "select/13_線香花火_MAY’S.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "線香花火",
+      "artist": "ガガガSP",
+      "has_synced": false,
+      "path": "select/14_線香花火_ガガガSP.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "線香花火",
+      "artist": "ガガガSP",
+      "has_synced": true,
+      "path": "select/15_線香花火_ガガガSP.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "線香花火",
+      "artist": "HoneyWorks Feat. 芹沢千秋 (木村良平)",
+      "has_synced": true,
+      "path": "select/16_線香花火_HoneyWorks_Feat._芹沢千秋_(木村良平).lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "線香花火 - Senkouhanabi",
+      "artist": "FUJIFABRIC",
+      "has_synced": true,
+      "path": "select/17_線香花火_-_Senkouhanabi_FUJIFABRIC.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "線香花火 Unplugged Version",
+      "artist": "三代目 J SOUL BROTHERS from EXILE TRIBE",
+      "has_synced": false,
+      "path": "select/18_線香花火_Unplugged_Version_三代目_J_SOUL_BROTHERS_from_EXILE_TRIBE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "線香花火 - feat. 幾田りら",
+      "artist": "佐藤千亜妃, 幾田りら",
+      "has_synced": false,
+      "path": "select/pl_01_線香花火_-_feat._幾田りら_佐藤千亜妃,_幾田りら.txt"
+    }
+  ]
+}
